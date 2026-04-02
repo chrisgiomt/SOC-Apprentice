@@ -31,3 +31,11 @@ SYN ACK means the destination acknowledges connection setup.
 CCNA Note:
 TCP uses reliability through sequence control.
 ```
+
+# Roadmap
+
+Planned updates:
+- PCAP support
+- Wireshark integration
+- Routing protocol analysis
+- VLAN troubleshooting
