@@ -3,7 +3,7 @@
 AI-powered senior network engineer assistant that analyzes logs, maps issues to OSI layers, and explains traffic behavior for CCNA learners.
 
 Current Version: 1
-  App Returns:
+App Returns:
   1. Protocol identified
   2. OSI layer identified
   3. plain-English explanation
